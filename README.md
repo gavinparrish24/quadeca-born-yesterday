@@ -1,6 +1,6 @@
-# Single Song Promotion
+# born yesterday by Quadeca
 
-> Playlists more popular than albums 
+> Single Line From Song
 
 ## What is this? 
 * A website to promote a single-song
@@ -13,4 +13,4 @@
 * What's old is new agai. This is the [modern mixtape](https://en.wikipedia.org/wiki/Mixtape) or a compilation of curated songs. 
 
 ## Citations
-* Your citations go here
+* [Name of Link] (link)
