@@ -3,7 +3,7 @@
     /* main UI color */
     --plyr-color-main: darkgray;
     /* audio controls background */
-    --plyr-audio-controls-background: black;
+    --plyr-audio-controls-background: #0f361c;
     /* audio controls color */
     --plyr-audio-control-color: white;
     /* font family for player */
@@ -21,7 +21,7 @@
 }
 
 body {
-    background: gray;
+    background: #1a5f30;
 }
 
 /* Layout */
@@ -30,7 +30,7 @@ main {
     max-width: 60em;
     margin-inline: auto;
 
-    background: lightgray;
+    background: #134423;
 }
 
 main img {
