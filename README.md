@@ -13,4 +13,5 @@
 * What's old is new agai. This is the [modern mixtape](https://en.wikipedia.org/wiki/Mixtape) or a compilation of curated songs. 
 
 ## Citations
-* [Name of Link] (link)
+* [born yesterday Genius Lyrics](https://genius.com/Quadeca-born-yesterday-lyrics)
+* [I Didn't Mean to Haunt You Album Art](https://m.media-amazon.com/images/I/918EBHGAlNL._UF1000,1000_QL80_.jpg)
