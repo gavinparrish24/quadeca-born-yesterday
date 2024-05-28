@@ -31,6 +31,8 @@ main {
     max-width: 60em;
     margin-inline: auto;
     background: #134423;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 h1 {
