@@ -1,4 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 /* CSS Variables */
+
+
 :root {
     /* main UI color */
     --plyr-color-main: #134423;
@@ -23,16 +27,19 @@
 body {
     background: #1a5f30;
   color: #f5f5dc;
+  
 }
 
 /* Layout */
 main {
     /* Fixed width center align */
+  font-family: "Amiri", serif;
     max-width: 60em;
     margin-inline: auto;
     background: #134423;
     padding-left: 20px;
     padding-right: 20px;
+  
 }
 
 h1 {
@@ -41,8 +48,9 @@ h1 {
   padding-bottom: -10px;
   font-size: 3em;
   margin-top: 10px;
-  margin-bottom: 36px;
+  margin-bottom: 8px;
   margin-block-start: -.2em;
+  
 }
 
 h2 {
@@ -73,11 +81,15 @@ article section {
 
 /* Footer */
 footer {
-    text-align: right;
+    text-align: center;
+  background: #f5f5dc;
 }
+
 
 /* Media Queries */
 @media (max-width: 40em) {
     main article {
         flex-direction: column;
     }
+
+  
