@@ -85,6 +85,19 @@ footer {
   background: #f5f5dc;
 }
 
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: #1a5f30;
+}
+
+a:hover {
+  color: brown;
+}
+
+
 
 /* Media Queries */
 @media (max-width: 40em) {
